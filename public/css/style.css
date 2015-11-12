@@ -1,0 +1,64 @@
+
+h1 {
+  text-align: center;
+}
+
+p {
+  padding-right: 20%;
+  margin-left: 10px;
+}
+
+form {
+  margin-left: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: #007A7A;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* http://mystrd.at/modern-clean-css-sticky-footer */
+html {
+    position:relative;
+    min-height:100%;
+}
+body {
+    margin:0 0 100px; /* bottom = footer height */
+    font-family: "Garamond", serif;
+}
+footer {
+    position: absolute;
+    left:0;
+    bottom:0;
+    height:30px;
+    width:100%;
+    background-color:#ccc;
+    text-align:center;
+    padding:5px;
+}
+/* End Sticky Footer */
+
+footer nav ul li{
+  display:inline-block;
+  padding:0px 25px 10px;
+}
+
+footer nav ul{
+  margin: 10px 60px 10px 20px;
+}
+
+footer nav ul li a{
+  font-variant: small-caps;
+  font-size: 24px;
+  color:gray;
+  text-decoration: none;
+}
+
+footer nav ul li a:hover{
+  color:#007A7A;
+  text-decoration: underline;
+}
