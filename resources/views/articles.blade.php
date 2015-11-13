@@ -16,7 +16,7 @@
       <td><a href="http://www.theatlantic.com/international/archive/2015/05/why-one-of-the-worlds-most-catholic-countries-might-approve-gay-marriage/393770/" target='_blank'>Why One of the World&#8217;s Most Catholic Countries Might Approve Gay Marriage</a>, <i>The Atlantic</i>, May 21, 2015</td>
     </tr>
     <tr>
-      <td><img src="/images/gaudy_night.jpg"></td>
+      <td><img src="/images/gaudynight.jpg"></td>
       <td><a href="http://the-toast.net/2015/04/28/on-harriet-vane-and-peter-wimsey-an-essay-with-personal-interruptions/" target='_blank'>On Harriet Vane and Lord Peter Wimsey: An Essay with Personal Interruptions</a>, <i>The Toast</i>, April 28, 2015</td>
     </tr>
     <tr>
