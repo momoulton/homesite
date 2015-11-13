@@ -1,0 +1,21 @@
+.circle {
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  font-size:1.5em;
+  color:#fff;
+  opacity:.8;
+  line-height:200px;
+  text-align:center;
+  background:#000;
+  display: inline-block;
+  padding: 5px;
+}
+
+#circles {
+  margin-left: 17%;
+}
+
+.circle:hover {
+  color: #007A7A;
+}

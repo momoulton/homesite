@@ -19,7 +19,10 @@
 <body>
 
     <header>
+      <div id="header">
         <h1>Mo Moulton</h1>
+        <h3>Writer, Historian, Developer</h3>
+      </div>
     </header>
 
     <section>

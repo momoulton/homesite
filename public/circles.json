@@ -1,0 +1,10 @@
+{
+  "nodes": [
+    {"name": "Dorothy L. Sayers", "category": "sayers", "size": 2},
+    {"name": "Writing", "category": "writing", "size": 1},
+    {"name": "Irish Diaspora", "category": "irish", "size": 2},
+    {"name": "About Me", "category": "about", "size": 1},
+    {"name": "Maps", "category": "maps", "size": 2},
+    {"name": "Web Projects", "category": "web", "size": 1}
+  ]
+}

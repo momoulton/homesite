@@ -1,15 +1,7 @@
 
-h1 {
+#header {
   text-align: center;
-}
-
-p {
-  padding-right: 20%;
-  margin-left: 10px;
-}
-
-form {
-  margin-left: 5%;
+  padding-bottom: 20px;
 }
 
 a {
@@ -18,7 +10,8 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  color: black;
+  text-decoration: none;
 }
 
 /* http://mystrd.at/modern-clean-css-sticky-footer */
@@ -29,6 +22,7 @@ html {
 body {
     margin:0 0 100px; /* bottom = footer height */
     font-family: "Garamond", serif;
+    font-variant: small-caps;
 }
 footer {
     position: absolute;
@@ -52,13 +46,22 @@ footer nav ul{
 }
 
 footer nav ul li a{
-  font-variant: small-caps;
-  font-size: 24px;
-  color:gray;
+  font-size: 1.5em;
   text-decoration: none;
 }
 
 footer nav ul li a:hover{
-  color:#007A7A;
-  text-decoration: underline;
+  color:black;
+  text-decoration: none;
 }
+ h1 {
+   font-size: 3em;
+   padding: 5px;
+   margin: 0px;
+ }
+
+ h3 {
+   font-size: 1.5em;
+   padding: 10px;
+   margin: 0px;
+ }

@@ -1,5 +1,23 @@
 @extends('layouts.master')
 
+@section('head')
+  <link href="/css/indexStyle.css" type='text/css' rel='stylesheet'>
+@stop
+
 @section('content')
-    <h3>Here will be the main stuff!</h3>
+  <div id="circles">
+    <a href="/about"><div class="circle" id="about">About Me</div></a>
+    <a href="/books"><div class="circle" id="books">Books</div></a>
+    <a href="/articles"><div class="circle" id="articles">Articles</div></a>
+    <a href="/web"><div class="circle" id="web">Web Projects</div></a>
+    <br><br>
+    <a href="/sayers"><div class="circle" id="dls">Dorothy L. Sayers</div></a>
+    <a href="/ireland"><div class="circle" id="irish">Ireland</div></a>
+    <a href="/britain"><div class="circle" id="british">Britain</div></a>
+    <a href="/fun"><div class="circle" id="fun">Fun</div></a>
+  </div>
+@stop
+
+@section('body')
+
 @stop
