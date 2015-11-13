@@ -12,7 +12,7 @@
       <td><a href="http://the-toast.net/2015/11/03/talking-back-to-ophelia-1918/" target='_blank'>All the World Was Made for You: Talking Back to Ophelia in 1918</a>, <i>The Toast</i>, November 5, 2015</td>
     </tr>
     <tr>
-      <td><img src="/images/irish_marriage.jpg"></td>
+      <td><img src="/images/irishmarriage.jpg"></td>
       <td><a href="http://www.theatlantic.com/international/archive/2015/05/why-one-of-the-worlds-most-catholic-countries-might-approve-gay-marriage/393770/" target='_blank'>Why One of the World&#8217;s Most Catholic Countries Might Approve Gay Marriage</a>, <i>The Atlantic</i>, May 21, 2015</td>
     </tr>
     <tr>

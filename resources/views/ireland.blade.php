@@ -12,7 +12,7 @@
     <td><a href="/books"><i>Ireland and the Irish in Interwar England</i></a> (Cambridge: Cambridge University Press, 2014)</td>
   </tr>
   <tr>
-    <td><img src="/images/irish_marriage.jpg"></td>
+    <td><img src="/images/irishmarriage.jpg"></td>
     <td><a href="http://www.theatlantic.com/international/archive/2015/05/why-one-of-the-worlds-most-catholic-countries-might-approve-gay-marriage/393770/" target='_blank'>Why One of the World&#8217;s Most Catholic Countries Might Approve Gay Marriage</a>, <i>The Atlantic</i>, May 21, 2015</td>
   </tr>
   <tr>
