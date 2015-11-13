@@ -20,7 +20,7 @@
 
     <header>
       <div id="header">
-        <h1>Mo Moulton</h1>
+        <h1><a href="/">Mo Moulton</a></h1>
         <h3>Writer, Historian, Developer</h3>
       </div>
     </header>

@@ -2,6 +2,17 @@
 #header {
   text-align: center;
   padding-bottom: 20px;
+  color: #262626;
+}
+
+h1 a {
+  text-decoration: none;
+  color: #262626;
+}
+
+h1 a:hover {
+  text-decoration: none;
+  color: #262626;
 }
 
 a {
@@ -22,7 +33,6 @@ html {
 body {
     margin:0 0 100px; /* bottom = footer height */
     font-family: "Garamond", serif;
-    font-variant: small-caps;
 }
 footer {
     position: absolute;

@@ -1,0 +1,9 @@
+td img {
+  border-radius: 50%;
+  display: inline;
+}
+
+td {
+  font-size: 1.5em;
+  padding: 10px;
+}

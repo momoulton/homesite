@@ -13,34 +13,20 @@
 
 Route::get('/', 'HomeController@getIndex');
 
-Route::get('/about', function() {
-    return "All about me";
-});
+Route::get('/about', 'AboutController@getIndex');
 
-Route::get('/books', function() {
-    return "book time";
-});
+Route::get('/books', 'BooksController@getIndex');
 
-Route::get('/articles', function() {
-    return "article time";
-});
+Route::get('/articles', 'ArticlesController@getIndex');
 
-Route::get('/web', function() {
-    return "web stuff";
-});
+Route::get('/web', 'WebController@getIndex');
 
-Route::get('/sayers', function() {
-    return "DLS here!";
-});
+Route::get('/sayers', 'SayersController@getIndex');
 
-Route::get('/ireland', function() {
-    return "eire";
-});
+Route::get('/ireland', 'IrelandController@getIndex');
 
-Route::get('/britain', function() {
-    return "uk uk uk";
-});
+Route::get('/britain', 'BritainController@getIndex');
 
-Route::get('/fun', function() {
-    return "some kinda something";
-});
+Route::get('/fun', 'FunController@getIndex');
+
+Route::get('/blog', 'BlogController@getIndex');
