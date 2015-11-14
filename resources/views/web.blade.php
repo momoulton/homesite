@@ -17,7 +17,7 @@
       <td><a href="http://momoulton.github.io/sayers.html" target='_blank'>The World of Dorothy Sayers: A Portrait of an Artist</a> (using D3.js and Google Maps)</td>
     </tr>
     <tr>
-      <td><img src="/images/geo_textshot.png"></td>
+      <td><img src="/images/geotext_shot.png"></td>
       <td>GeoText Analyzer. Written in Java, this program allows users to analyze a corpus of texts and build lists of words and place-names with frequencies. <a href="GeoText.jar">Download</a> / <a href="https://github.com/momoulton/geotextanalyzer" target='_blank'>Source Code</a>
     </tr>
     <tr>
