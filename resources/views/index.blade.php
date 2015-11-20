@@ -14,7 +14,7 @@
     <a href="/sayers"><div class="circle" id="dls">Dorothy L. Sayers</div></a>
     <a href="/ireland"><div class="circle" id="irish">Ireland</div></a>
     <a href="/britain"><div class="circle" id="british">Britain</div></a>
-    <a href="http://blog.moulton.com"><div class="circle" id="blog">Blog</div></a>
+    <a href="http://blog.momoulton.com"><div class="circle" id="blog">Blog</div></a>
   </div>
 @stop
 
