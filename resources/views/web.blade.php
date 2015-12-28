@@ -8,6 +8,11 @@
   <h3>Maps, Web Apps, and Programming Projects</h3>
   <table>
     <tr>
+      <td><img src="/images/club.png"></td>
+      <td><a href="http://p4.momoulton.com" target='_blank'>Preferential Book Selector for Book Clubs</a>
+       Built with PHP and Laravel, this app allows book club members to organize their books and meetings and vote on book options using preferential (instant-runoff) voting.</td>
+    </tr>
+    <tr>
       <td><img src="/images/password.png"></td>
       <td><a href="http://p2.momoulton.com" target='_blank'>A Very Literary xkcd Password Generator</a>
        Built with PHP, this app generates pass phrases based on one of four classic 19th century novels.</td>

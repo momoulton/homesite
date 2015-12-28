@@ -12,6 +12,10 @@
     <td><a href="/books"><i>Ireland and the Irish in Interwar England</i></a> (Cambridge: Cambridge University Press, 2014)</td>
   </tr>
   <tr>
+    <td><img src="/images/fantasy.jpg"></td>
+    <td><a href="http://www.publicbooks.org/blog/a-fantasy-of-whiteness" target='_blank'>A Fantasy of Whiteness</a>, <i>Public Books blog</i>, December 28, 2015</td>
+  </tr>
+  <tr>
     <td><img src="/images/hogarth_sigismunda.jpg"></td>
     <td><a href="http://the-toast.net/2015/11/03/talking-back-to-ophelia-1918/" target='_blank'>All the World Was Made for You: Talking Back to Ophelia in 1918</a>, <i>The Toast</i>, November 5, 2015</td>
   </tr>
