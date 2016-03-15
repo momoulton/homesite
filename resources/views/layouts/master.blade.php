@@ -21,7 +21,7 @@
     <header>
       <div id="header">
         <h1><a href="/">Mo Moulton</a></h1>
-        <h3>Writer, Historian, Developer</h3>
+        <h3>Writer &amp; Historian</h3>
       </div>
     </header>
 
@@ -37,12 +37,7 @@
             <li><a href="https://twitter.com/hammock_tussock" target='_blank'>Twitter</a></li>
             <li><a href="https://github.com/momoulton" target='_blank'>GitHub</a></li>
             <li><a href="https://www.linkedin.com/pub/mo-moulton/a1/98b/2b9" target='_blank'>LinkedIn</a></li>
-            <li>    <a href = "mailto:moulton2ATfasDOTharvardDOTedu"
-       onclick = "this.href=this.href
-                  .replace(/AT/,'&#64;')
-                  .replace(/DOT/,'&#46;')
-                  .replace(/DOT/,'&#46;')"
-            >Contact Me</a></li>
+            <!-- <li>    <a href = "/contact">Contact Me</a></li> -->
             <li><a href="/">Home</a></li>
           </ul>
         </nav>

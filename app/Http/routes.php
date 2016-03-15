@@ -23,6 +23,8 @@ Route::get('/web', 'WebController@getIndex');
 
 Route::get('/sayers', 'SayersController@getIndex');
 
+Route::get('/media', 'MediaController@getIndex');
+
 Route::get('/ireland', 'IrelandController@getIndex');
 
 Route::get('/britain', 'BritainController@getIndex');
@@ -30,3 +32,7 @@ Route::get('/britain', 'BritainController@getIndex');
 Route::get('/fun', 'FunController@getIndex');
 
 Route::get('/blog', 'BlogController@getIndex');
+
+Route::get('/contact', 'ContactController@getIndex');
+
+Route::post('/contact', 'ContactController@postIndex');
