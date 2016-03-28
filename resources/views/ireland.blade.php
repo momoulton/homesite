@@ -8,6 +8,10 @@
 <h3>Ireland</h3>
 <table>
   <tr>
+    <td><img src="/images/disclaimer.jpg"></td>
+    <td><a href="http://www.disclaimermag.com/politics/easter-rising-centenary-the-ambiguous-heroes-who-found-meaning-in-irish-identity-3506" target='_blank'>Easter Rising Centenary: The Ambiguous Heroes Who Found Meaning in Irish Identity</a>, <i>Disclaimer Magazine</i>, March 25, 2016</td>
+  </tr>   
+  <tr>
     <td><img src="/images/bookcover100.jpg"></td>
     <td><a href="/books"><i>Ireland and the Irish in Interwar England</i></a> (Cambridge: Cambridge University Press, 2014)</td>
   </tr>
