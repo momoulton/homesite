@@ -1,4 +1,4 @@
-facebo@extends('layouts.master')
+@extends('layouts.master')
 
 @section('head')
   <link href="/css/bookStyle.css" type='text/css' rel='stylesheet'>
