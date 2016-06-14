@@ -8,6 +8,10 @@
   <h3>Dorothy L. Sayers</h3>
   <table>
     <tr>
+      <td><img src="/images/lemon.png"></td>
+      <td><a href="http://the-toast.net/2016/06/07/dorothy-l-sayers-marjorie-barber/" target='_blank'>Dorothy L. Sayers, Marjorie Barber, and the Story of a Wartime Lemon</a>, <i>The Toast</i>, June 7, 2016</td>
+    </tr>  
+    <tr>
       <td><img src="/images/gaudynight.jpg"></td>
       <td><a href="http://the-toast.net/2015/04/28/on-harriet-vane-and-peter-wimsey-an-essay-with-personal-interruptions/" target='_blank'>On Harriet Vane and Lord Peter Wimsey: An Essay with Personal Interruptions</a>, <i>The Toast</i>, April 28, 2015</td>
     </tr>
